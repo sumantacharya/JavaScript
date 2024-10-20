@@ -11,7 +11,7 @@ let b = a.slice(0, 6);
 console.log(b);
 
 // Number conversion*******
-/*let a = "10";
+let a = "10";
 let b = 10;
 console.log(typeof parseInt(a));// converting string to integer
 console.log(typeof b.toString());// converting numbers to string

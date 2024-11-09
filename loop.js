@@ -1,5 +1,5 @@
 //******************If statement************************
-let age = 50;
+/*let age = 50;
 if (age === 30) {
     console.log("middleAge");
 }
